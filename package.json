@@ -1,0 +1,29 @@
+{
+  "name": "quasar-app-extension-pwa-installer",
+  "version": "1.0.0",
+  "description": "A Quasar App Extension for creating a customized PWA install experience",
+  "author": "Mitko Georgiev <omnichronous@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omnichronous/quasar-pwa-installer.git"
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 12.0.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.22.4"
+  },
+  "devDependencies": {
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0"
+  }
+}
